@@ -1,3 +1,5 @@
-` > $ make build  `
-` > $ make run `
+```bash
+make build
+make run
+```
 
